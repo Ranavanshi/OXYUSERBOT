@@ -37,13 +37,13 @@ async def userbot():
         alt1 = get_me1.id
         config.SUDO_USERS.append(alt1)
         try:
-            await one.join_chat("BWANDARLOK")
-            await one.join_chat("BWANDARLOK")
-            await one.join_chat("BWANDARLOK")
-            await one.join_chat("BWANDARLOK")
+            await one.join_chat("webnet_bot_support")
+            await one.join_chat("webnet_support_chats")
+            await one.join_chat("THE_WEBNET_NETWORK")
+            await one.join_chat("about_ranavanshi_divy")
         except:
             pass
-        LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛ !")
+        LOGGER("AltSpam").info("𝕯𝖎𝖛𝖞𝖆𝖓𝖘𝖍𝖚!")
 
     if config.SESSION2:
         await two.start()
@@ -57,7 +57,7 @@ async def userbot():
             await two.join_chat("BWANDARLOK")
         except:
             pass
-        LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")
+        LOGGER("AltSpam").info("𝕯𝖎𝖛𝖞𝖆𝖓𝖘𝖍𝖚 !")
             
     if config.SESSION3:
         await three.start()
@@ -71,7 +71,7 @@ async def userbot():
             await three.join_chat("BWANDARLOK")
         except:
             pass
-        LOGGER("AltSpam").info("🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")
+        LOGGER("AltSpam").info("𝕯𝖎𝖛𝖞𝖆𝖓𝖘𝖍𝖚 !")
 
     if config.SESSION4:
         await four.start()
@@ -79,13 +79,13 @@ async def userbot():
         alt4 = get_me4.id
         config.SUDO_USERS.append(alt4)
         try:
-            await four.join_chat("BWANDARLOK")
-            await four.join_chat("BWANDARLOK")
-            await four.join_chat("BWANDARLOK")
-            await four.join_chat("BWANDARLOK")
+            await four.join_chat("webnet_bot_support")
+            await four.join_chat("webnet_support_chats")
+            await four.join_chat("THE_WEBNET_NETWORK")
+            await four.join_chat("about_ranavanshi_divy")
         except:
             pass
-        LOGGER("AltSpam").info(f"🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")    
+        LOGGER("AltSpam").info(f"𝕯𝖎𝖛𝖞𝖆𝖓𝖘𝖍𝖚!")    
 
     if config.SESSION5:
         await five.start()
@@ -93,11 +93,11 @@ async def userbot():
         alt5 = get_me5.id
         config.SUDO_USERS.append(alt5)
         try:
-            await five.join_chat("BWANDARLOK")
-            await five.join_chat("BWANDARLOK")
-            await five.join_chat("BWANDARLOK")
-            await five.join_chat("BWANDARLOK")
+            await five.join_chat("webnet_bot_support")
+            await five.join_chat("webnet_support_chats")
+            await five.join_chat("THE_WEBNET_NETWORK")
+            await five.join_chat("about_ranavanshi_divy")
         except:
             pass
-        LOGGER("AltSpam").info(f"🦋⃟ ᴠ‌ɪ‌ᴘ‌ 🇴 🇽 𝐘 𝐆 𝐄 𝐍⃝⃝⃪⃕🥀🦋‌•─‌⃛≛⃝🦅 ༆𝐗𝐃𐏓 ⃪༏‌⃪🔥᪵᪳❛: !")
+        LOGGER("AltSpam").info(f"𝕯𝖎𝖛𝖞𝖆𝖓𝖘𝖍𝖚 !")
 
